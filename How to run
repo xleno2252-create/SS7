@@ -1,0 +1,4 @@
+install. python      3
+save     Code  ss7_sentinel.py .
+run on      terminal 
+python    ss7_sentinel.py
