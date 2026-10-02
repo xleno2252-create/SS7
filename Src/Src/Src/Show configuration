@@ -1,0 +1,1 @@
+python src/ss7_sentinel.py --show-config
