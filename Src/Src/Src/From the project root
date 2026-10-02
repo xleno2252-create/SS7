@@ -1,0 +1,3 @@
+python src/ss7_sentinel.py \
+    --input data/sample_events.json \
+    --report reports/report.json
