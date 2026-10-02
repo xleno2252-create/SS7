@@ -1,0 +1,62 @@
+[
+    {
+        "timestamp": "2026-10-01T10:00:00Z",
+        "source": "MSC-A",
+        "destination": "HLR-A",
+        "event": "LOCATION_QUERY"
+    },
+    {
+        "timestamp": "2026-10-01T10:00:01Z",
+        "source": "MSC-B",
+        "destination": "HLR-A",
+        "event": "LOCATION_QUERY"
+    },
+    {
+        "timestamp": "2026-10-01T10:00:02Z",
+        "source": "UNKNOWN-NODE",
+        "destination": "HLR-A",
+        "event": "LOCATION_QUERY"
+    },
+    {
+        "timestamp": "2026-10-01T10:00:03Z",
+        "source": "MSC-A",
+        "destination": "SMSC-A",
+        "event": "SMS_ROUTE"
+    },
+    {
+        "timestamp": "2026-10-01T10:00:04Z",
+        "source": "UNKNOWN-NODE",
+        "destination": "HLR-A",
+        "event": "LOCATION_QUERY"
+    },
+    {
+        "timestamp": "2026-10-01T10:00:05Z",
+        "source": "UNKNOWN-NODE",
+        "destination": "HLR-A",
+        "event": "LOCATION_QUERY"
+    },
+    {
+        "timestamp": "2026-10-01T10:00:06Z",
+        "source": "UNKNOWN-NODE",
+        "destination": "HLR-A",
+        "event": "LOCATION_QUERY"
+    },
+    {
+        "timestamp": "2026-10-01T10:00:07Z",
+        "source": "UNKNOWN-NODE",
+        "destination": "HLR-A",
+        "event": "LOCATION_QUERY"
+    },
+    {
+        "timestamp": "2026-10-01T10:00:08Z",
+        "source": "UNKNOWN-NODE",
+        "destination": "HLR-A",
+        "event": "LOCATION_QUERY"
+    },
+    {
+        "timestamp": "2026-10-01T10:00:09Z",
+        "source": "UNKNOWN-NODE",
+        "destination": "HLR-A",
+        "event": "LOCATION_QUERY"
+    }
+]
